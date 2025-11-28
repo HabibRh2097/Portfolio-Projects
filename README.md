@@ -15,6 +15,9 @@ In this section I will list data analytics projects briefly describing the techn
 Nashville Housing Data Cleaning & Visualization:
 https://github.com/HabibRh2097/Nashville-housing-data-cleaning
 
+Data professionals Survey breakdown:
+https://github.com/HabibRh2097/Data-professional-Survey-breakdown
+
 Education
 University of science and technology Oran
 
