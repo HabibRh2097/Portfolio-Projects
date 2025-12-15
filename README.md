@@ -21,6 +21,8 @@ https://github.com/HabibRh2097/Data-professional-Survey-breakdown
 Education
 University of science and technology Oran
 
+Technical Skills: Python, SQL, powerBi.
+
 Certificates
 Data Camp SQL 
 
