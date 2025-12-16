@@ -18,6 +18,9 @@ https://github.com/HabibRh2097/Nashville-housing-data-cleaning
 Data professionals Survey breakdown:
 https://github.com/HabibRh2097/Data-professional-Survey-breakdown
 
+Course Completion Engagement Analysis:
+https://github.com/HabibRh2097/Course-Completion-Engagement-Analysis-Excel-SQL-BI-
+
 Education
 University of science and technology Oran
 
