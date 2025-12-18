@@ -22,12 +22,16 @@ Built visuals to highlight market trends
 🔗 https://github.com/HabibRh2097/Nashville-housing-data-cleaning
 
 
-**Cleaned and standardized housing data**
+**Course Completion & Engagement Analysis**
 
-Handled missing values, duplicates, and inconsistent formats
+Tools: SQL Server, Power BI, Excel
 
-Built visuals to highlight market trends
-🔗 https://github.com/HabibRh2097/Nashville-housing-data-cleaning
+Cleaned and transformed real-world e-learning data
+
+Built a star schema (fact & dimension tables)
+
+Created KPI-ready metrics for engagement, completion, and inactivity
+🔗 https://github.com/HabibRh2097/Course-Completion-Engagement-Analysis-Excel-SQL-BI-
 
 
 **Data Professionals Survey Breakdown**
