@@ -9,9 +9,18 @@ This repository showcases selected projects that demonstrate my skills in data c
 
 # Portfolio Projects
 
+
 **Nashville Housing Data Cleaning & Visualization**
 
 Tools: SQL, Power BI
+
+Cleaned and standardized housing data
+
+Handled missing values, duplicates, and inconsistent formats
+
+Built visuals to highlight market trends
+🔗 https://github.com/HabibRh2097/Nashville-housing-data-cleaning
+
 
 **Cleaned and standardized housing data**
 
@@ -19,6 +28,7 @@ Handled missing values, duplicates, and inconsistent formats
 
 Built visuals to highlight market trends
 🔗 https://github.com/HabibRh2097/Nashville-housing-data-cleaning
+
 
 **Data Professionals Survey Breakdown**
 
