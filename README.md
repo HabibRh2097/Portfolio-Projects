@@ -19,6 +19,7 @@ Cleaned and standardized housing data
 Handled missing values, duplicates, and inconsistent formats
 
 Built visuals to highlight market trends
+
 🔗 https://github.com/HabibRh2097/Nashville-housing-data-cleaning
 
 
@@ -31,6 +32,7 @@ Cleaned and transformed real-world e-learning data
 Built a star schema (fact & dimension tables)
 
 Created KPI-ready metrics for engagement, completion, and inactivity
+
 🔗 https://github.com/HabibRh2097/Course-Completion-Engagement-Analysis-Excel-SQL-BI-
 
 
@@ -41,6 +43,7 @@ Tools: Power BI
 Analyzed survey responses from data professionals
 
 Created interactive dashboards highlighting salaries, tools, and career paths
+
 🔗 https://github.com/HabibRh2097/Data-professional-Survey-breakdown
 
 
