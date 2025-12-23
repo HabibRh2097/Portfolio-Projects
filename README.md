@@ -1,5 +1,7 @@
 # Habib Rahou - Data Analyst Portfolio
 
+# About
+
 Data Analytics Portfolio
 
 Welcome! I’m Habib Rahou, a data analyst with a masters degree in Health, Safety, and Environment (HSE) and risk analysis, currently pursuing a degree in Data Science.
@@ -10,7 +12,7 @@ This repository showcases selected projects that demonstrate my skills in data c
 # Portfolio Projects
 
 
-**Nashville Housing Data Cleaning & Visualization**
+#**Nashville Housing Data Cleaning & Visualization**
 
 Tools: SQL, Power BI
 
