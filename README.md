@@ -12,7 +12,7 @@ This repository showcases selected projects that demonstrate my skills in data c
 # Portfolio Projects
 
 
-#**Nashville Housing Data Cleaning & Visualization**
+**Nashville Housing Data Cleaning & Visualization**
 
 Tools: SQL, Power BI
 
