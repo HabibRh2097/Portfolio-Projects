@@ -3,7 +3,7 @@
 # About
 
 
-Hi! I’m Habib Rahou, a data analyst with a masters degree in Health, Safety, and Environment (HSE) and risk analysis, currently pursuing a degree in Data Science.
+Hi, I’m Habib Rahou, a data analyst with a masters degree in Health, Safety, and Environment (HSE) and risk analysis, currently pursuing a degree in Data Science.
 I specialize in transforming raw data into clear insights and decision-ready dashboards using SQL, Power BI, and Python.
 
 This repository showcases selected projects that demonstrate my skills in data cleaning, analysis, modeling, and visualization.
