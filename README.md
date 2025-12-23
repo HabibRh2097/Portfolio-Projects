@@ -37,6 +37,16 @@ Created KPI-ready metrics for engagement, completion, and inactivity
 🔗 https://github.com/HabibRh2097/Course-Completion-Engagement-Analysis-Excel-SQL-BI-
 
 
+**SaaS product analytics**
+
+Tools: SQL Server, Power BI, Excel
+
+This project demonstrates an end-to-end data analytics workflow for a SaaS business, 
+starting from raw CSV files and ending with clean, 
+analysis-ready data used for Power BI dashboards.
+
+🔗 https://github.com/HabibRh2097/SaaS-product-analytics/tree/main
+
 **Data Professionals Survey Breakdown**
 
 Tools: Power BI
