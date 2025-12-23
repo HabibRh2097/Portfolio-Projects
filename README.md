@@ -74,5 +74,7 @@ Technical Skills: Python, SQL, powerBi.
 Data Camp SQL 
 
 **Contact**
+
 💼 LinkedIn: https://www.linkedin.com/in/habib-rahou-921823165/ 
+
 📧 Email: rahouhabib2@gmail.com
